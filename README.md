@@ -1,4 +1,4 @@
-# ROSE Doesn't Do That
+# ROSE
 This is the official implementation of our ACL2024 (Findings) paper, "[ROSE Doesn't Do That: Boosting the Safety of Instruction-Tuned Large Language Models with Reverse Prompt Contrastive Decoding](https://aclanthology.org/2024.findings-acl.814.pdf)" (in Pytorch).
 
 ## Requirements and Installation
